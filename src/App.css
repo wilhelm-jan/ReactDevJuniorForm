@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#root {
+  text-align: center;
+}
+
+/* button {
+  border: 2px solid black;
+  padding: 1px 8px;
+  font-weight: 500;
+  background-color: #fff;
+  transition: 0.4s all ease-in;
+}
+button:hover {
+  color: #fff;
+  background-color: black;
+} */
